@@ -86,7 +86,6 @@ sbn.heatmap(df.corr(),annot=True)
 
 # Checking the null values and Cleaning it
 ![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k3.png)
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
 
 # Displaying datatypes of each features
 ![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
