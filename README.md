@@ -89,10 +89,10 @@ sbn.heatmap(df.corr(),annot=True)
 ![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
 
 # Displaying datatypes of each features
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k5.png)
+![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
 
 # Multivariate Analysis - Scatterplot
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k6.png)
+![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k5.png)
 
 # Multivariate Analysis - Barplot
 ![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k7.png)
